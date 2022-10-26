@@ -1,0 +1,10 @@
+C:\Users\cfan9\source\repos\MinimalApiDemoApp\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\cfan9\source\repos\MinimalApiDemoApp\UserDB\bin\Debug\UserDB.dll
+C:\Users\cfan9\source\repos\MinimalApiDemoApp\UserDB\bin\Debug\UserDB.pdb
+C:\Users\cfan9\source\repos\MinimalApiDemoApp\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\cfan9\source\repos\MinimalApiDemoApp\UserDB\obj\Debug\Model.xml
+C:\Users\cfan9\source\repos\MinimalApiDemoApp\UserDB\obj\Debug\refactor.xml
+C:\Users\cfan9\source\repos\MinimalApiDemoApp\UserDB\obj\Debug\postdeploy.sql
+C:\Users\cfan9\source\repos\MinimalApiDemoApp\UserDB\obj\Debug\predeploy.sql
+C:\Users\cfan9\source\repos\MinimalApiDemoApp\UserDB\obj\Debug\UserDB.dll
+C:\Users\cfan9\source\repos\MinimalApiDemoApp\UserDB\obj\Debug\UserDB.pdb
